@@ -1,0 +1,113 @@
+body {
+      font-family: Arial;
+      font-size: 12px;
+      margin: 0px;
+      padding: 0px;
+	  background-image:url("../img/bg.jpeg");
+	  color:white;
+    }
+
+    a { 
+      outline: none; 
+	  color:white;
+    }
+    
+    a img { 
+      outline: none; 
+    }
+    
+    img {
+      border: 0px;
+    }
+
+    #content {
+      margin: 0px auto;
+    }
+
+
+    #mainarea {
+      width: 640px;
+      margin: 0px auto;
+    } 
+    
+    #instructions {
+      width: 600px;
+      font-size: 0.85em;
+      text-align: left;
+      background-color: #fff;
+      color: #555;
+      border: 1px solid #ddd;
+      margin: 16px auto;
+      padding: 20px;
+	  -webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+    }
+
+	
+	#video_area {
+		width:640px;
+		height:360px;
+		background:white;
+        
+	}
+    
+    #video_area table {
+        color:black;
+        margin-top:15px;
+    }
+	
+	#butoane {
+		margin-top:25px;
+		font-size:11px;
+	}
+	
+	#mesaj {
+		position:absolute;
+		margin:0px auto;
+		width:200px;
+		font-size:12px;
+		background:yellow;
+		padding:5px;
+		display:none;
+	}
+	
+	#acum {
+		color:white;
+		padding:5px;
+	}
+    
+	.song {
+		margin:10px 0px;
+		 -webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		background:#efefef;
+		padding:10px;
+		color:black;
+	}
+	
+	.autor {
+		font-size:11px;
+		color:red;
+        margin-top:5px;
+	}	
+    
+    .sr_text {
+        color:black;
+        font-size:12px;
+    }
+    
+    #playlist_gol {
+        margin-top:20px;
+    }
+    
+    #video {
+        margin-top:15px;
+    }
+	
+	#title {
+		font-size:28px;
+		color:white;
+		font-weight:bold;
+	}
